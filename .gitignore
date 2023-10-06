@@ -1,0 +1,9 @@
+Clases.csproj
+Clases.sln
+Clases.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
