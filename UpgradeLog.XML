@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Clases">
+</Property><Property Name="Archivo de la solución" Value="F:\Mis Documentos\Visual Studio 2005\Projects\C#\EJERCICIOS LIBRO PROGRAMACION C#\Clases\Clases.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="F:\Mis Documentos\Visual Studio 2005\Projects\C#\EJERCICIOS LIBRO PROGRAMACION C#\Clases\Clases.suo">
+</Property><Property Name="Date" Value="viernes, 17 de noviembre de 2023">
+</Property><Property Name="Time" Value="11:43 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Clases.sln" Description="La copia F:\Mis Documentos\Visual Studio 2005\Projects\C#\EJERCICIOS LIBRO PROGRAMACION C#\Clases\Backup\Clases.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Clases.suo" Description="La copia F:\Mis Documentos\Visual Studio 2005\Projects\C#\EJERCICIOS LIBRO PROGRAMACION C#\Clases\Backup\Clases.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Clases" Source="Clases.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto F:\Mis Documentos\Visual Studio 2005\Projects\C#\EJERCICIOS LIBRO PROGRAMACION C#\Clases\Backup\Clases.csproj">
+</Event><Event ErrorLevel="0" Project="Clases" Source="ClasesVarias.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\Mis Documentos\Visual Studio 2005\Projects\C#\EJERCICIOS LIBRO PROGRAMACION C#\Clases\Backup\ClasesVarias.cs">
+</Event><Event ErrorLevel="0" Project="Clases" Source="Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\Mis Documentos\Visual Studio 2005\Projects\C#\EJERCICIOS LIBRO PROGRAMACION C#\Clases\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Clases" Source="Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo F:\Mis Documentos\Visual Studio 2005\Projects\C#\EJERCICIOS LIBRO PROGRAMACION C#\Clases\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="Clases" Source="Clases.csproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="Clases" Source="Clases.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Clases" Source="Clases.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Clases.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Clases.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Clases" Source="Clases.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>
