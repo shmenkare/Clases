@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Clases
 {
-    class Persona
+    internal class Persona
     {
         private int Id;
         private string Nombre;
